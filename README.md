@@ -14,7 +14,7 @@ Below is a checklist of all the Lab Activities I've worked on. Feel free to expl
 
 ---
 
-## 📝 **Laboratory Activity 1 – 02-09-2024**:
+## 📝 **Laboratory Activity 1 – 02-09-2024**
 - [ ] **[`GettingInputs.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%201%20-%2002-09-2024/GettingGreater.java)**
 
   🌟 *Output:*  
@@ -26,7 +26,7 @@ Below is a checklist of all the Lab Activities I've worked on. Feel free to expl
 
 ---
 
-## 📝 **Laboratory Activity 2 – 30-09-2024**:
+## 📝 **Laboratory Activity 2 – 30-09-2024**
 - [ ] **[`GetArrayMean.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%202%20%E2%80%93%2030-09-2024/GetArrayMean.java)**  
 
   🌟 *Output:*  
@@ -38,7 +38,7 @@ Below is a checklist of all the Lab Activities I've worked on. Feel free to expl
 
 ---
 
-## 📝 **Laboratory Activity 3 – 18-11-2024**: 
+## 📝 **Laboratory Activity 3 – 18-11-2024** 
  - [ ] **[`ArtistDemo.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/ArtistDemo.java) (Driver Code)**
  - [ ] **[`Artist.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/Artist.java)**
   
@@ -63,7 +63,7 @@ Below is a checklist of all the Lab Activities I've worked on. Feel free to expl
 
 ---
 
-## 📝 **Laboratory Activity 4 – 27-11-2024**:
+## 📝 **Laboratory Activity 4 – 27-11-2024**
  - [ ] **[`Main.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/Main.java)**   
  - [ ] **[`Shape.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/Shape.java)**  
  - [ ] **[`Rectangle.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/Rectangle.java)**  
