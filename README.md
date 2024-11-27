@@ -7,10 +7,10 @@ Below is a checklist of all the Lab Activities I've worked on. Feel free to expl
 ---
 
 ## 📚 **Table of Contents**
-- [Laboratory Activity 1 – 02-09-2024](#laboratory-activity-1--02-09-2024)
-- [Laboratory Activity 2 – 30-09-2024](#laboratory-activity-2--30-09-2024)
-- [Laboratory Activity 3 – 18-11-2024](#laboratory-activity-3--18-11-2024)
-- [Laboratory Activity 4 – 27-11-2024](#laboratory-activity-4--27-11-2024)
+- [Laboratory Activity 1 – 02-09-2024](#📝-laboratory-activity-1--02-09-2024)
+- [Laboratory Activity 2 – 30-09-2024](#📝-laboratory-activity-2--30-09-2024)
+- [Laboratory Activity 3 – 18-11-2024](#📝-laboratory-activity-3--18-11-2024)
+- [Laboratory Activity 4 – 27-11-2024](#📝-laboratory-activity-4--27-11-2024)
 
 ---
 
