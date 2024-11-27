@@ -42,24 +42,24 @@ Below is a checklist of all the Lab Activities I've worked on. Feel free to expl
  - [ ] **[`ArtistDemo.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/ArtistDemo.java) (Driver Code)**
  - [ ] **[`Artist.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/Artist.java)**
   
-  🌟 *Output:*  
-   <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Artist_output.png" width="400">
+    🌟 *Output:*  
+     <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Artist_output.png" width="400">
  - [ ] **[`Singer.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/Singer.java)**
   
-  🌟 *Output:*  
-   <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Singer_output.png" width="400">    
+    🌟 *Output:*  
+     <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Singer_output.png" width="400">    
  - [ ] **[`Dancer.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/Dancer.java)**
   
-  🌟 *Output :*  
-   <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Dancer_output.png" width="400">  
+    🌟 *Output :*  
+     <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Dancer_output.png" width="400">  
  - [ ] **[`Painter.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/Painter.java)**  
   
-  🌟 *Output:*  
-   <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Painter_output.png" width="400">  
+    🌟 *Output:*  
+     <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Painter_output.png" width="400">  
  - [ ] **[`Writer.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/Writer.java)**  
   
-  🌟 *Output:*  
-   <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Writer_output.png" width="400">  
+    🌟 *Output:*  
+     <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Writer_output.png" width="400">  
 
 ---
 
@@ -71,8 +71,8 @@ Below is a checklist of all the Lab Activities I've worked on. Feel free to expl
  - [ ] **[`Triangle.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/Triangle.java)**  
  - [ ] **[`ShapeCollection.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/ShapeCollection.java)**  
   🌟 *Output:*  
-  <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/Lab4-output.png" width="400">
+    <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/Lab4-output.png" width="400">
 
 ---
 
-### 🎉 **Mission Accomplished!** Keep up the great work! 🌟
+### 🎉 **Mission Accomplished!**🌟
