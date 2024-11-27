@@ -1,53 +1,78 @@
-# CS-2101: Object-Oriented Programming  
-**Student**: Michaella P. Balagtas  
-**Course**: CS-2101 – Object-Oriented Programming  
+# CS-211: Object-Oriented Programming  
+*by Michaella P. Balagtas*  
 
-Welcome!! Below is a checklist of all the Lab Activities I've worked on throughout the course. Check off each task as you go, and feel free to explore each activity's contents!
-
----
-
-## 📝 **Laboratory Activity 1 – 02-09-2024**: *Input Handling & Conditionals*  
-- [ ] [`GettingInputs.java`](./Laboratory%20Activity%201%20-%2002-09-2024/GettingInputs.java)
- ![Output Screenshot](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%201%20-%2002-09-2024/GettingGreater_output.jpg)  
-- [ ] [`GettingGreater.java`](./Laboratory%20Activity%201%20-%2002-09-2024/GettingGreater.java) 
- ![Output Screenshot](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%201%20-%2002-09-2024/GettingInputs_output.jpg)
+🎉 Welcome to my Lab Activities! 🎉  
+Below is a checklist of all the Lab Activities I've worked on. Feel free to explore each activity's contents, check off your progress, and enjoy the journey through code! 💻✨
 
 ---
 
-## 📝 **Laboratory Activity 2 – 30-09-2024**: *Array Operations & Loops*  
-- [ ] [`GetArrayMean.java`](./Laboratory%20Activity%202%20-%2030-09-2024/GetArrayMean.java)  
-- ![Output Screenshot](./Laboratory%20Activity%202%20-%2030-09-2024/GetArrayMean_output.png)  
-- [ ] [`MultiplicationTable.java`](./Laboratory%20Activity%202%20-%2030-09-2024/MultiplicationTable.java)  
-- ![Output Screenshot](./Laboratory%20Activity%202%20-%2030-09-2024/MultiplicationTable_output.png)  
+## 📚 **Table of Contents**
+- [Laboratory Activity 1 – 02-09-2024](#laboratory-activity-1)
+- [Laboratory Activity 2 – 30-09-2024](#laboratory-activity-2)
+- [Laboratory Activity 3 – 18-11-2024](#laboratory-activity-3)
+- [Laboratory Activity 4 – 27-11-2024](#laboratory-activity-4)
 
 ---
 
-## 📝 **Laboratory Activity 3 – 18-11-2024**: *Inheritance & Polymorphism*  
-- [ ] **Artists (Subfolder)**  
-  - [ ] [`Artist.java`](./Laboratory%20Activity%203%20-%2018-11-2024/Artists/Artist.java)  
-  - [ ] [`ArtistDemo.java`](./Laboratory%20Activity%203%20-%2018-11-2024/Artists/ArtistDemo.java) (Driver Code)  
-  - [ ] [`Singer.java`](./Laboratory%20Activity%203%20-%2018-11-2024/Artists/Singer.java)  
-  - [ ] [`Dancer.java`](./Laboratory%20Activity%203%20-%2018-11-2024/Artists/Dancer.java)  
-  - [ ] [`Painter.java`](./Laboratory%20Activity%203%20-%2018-11-2024/Artists/Painter.java)  
-  - [ ] [`Writer.java`](./Laboratory%20Activity%203%20-%2018-11-2024/Artists/Writer.java)  
-- [ ] **Output Screenshots**  
-  - [ ] Singer Output  
-  - [ ] Dancer Output  
-  - [ ] Painter Output  
-  - [ ] Writer Output  
+## 📝 **Laboratory Activity 1 – 02-09-2024**:
+- [ ] **[`GettingInputs.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%201%20-%2002-09-2024/GettingGreater.java)**
+
+  🌟 *Output:*  
+  <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%201%20-%2002-09-2024/GettingGreater_output.jpg" width="400">  
+- [ ] **[`GettingGreater.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%201%20-%2002-09-2024/GettingInputs.java)**
+
+  🌟 *Output:*  
+  <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%201%20-%2002-09-2024/GettingInputs_output.jpg" width="400">
 
 ---
 
-## 📝 **Laboratory Activity 4 – 27-11-2024**: *Abstract Classes & Interfaces*  
-- [ ] **Shapes (Subfolder)**  
-  - [ ] [`Main.java`](./Laboratory%20Activity%204%20-%2027-11-2024/Shapes/Main.java)  
-  - [ ] [`Shape.java`](./Laboratory%20Activity%204%20-%2027-11-2024/Shapes/Shape.java)  
-  - [ ] [`Rectangle.java`](./Laboratory%20Activity%204%20-%2027-11-2024/Shapes/Rectangle.java)  
-  - [ ] [`Square.java`](./Laboratory%20Activity%204%20-%2027-11-2024/Shapes/Square.java)  
-  - [ ] [`Triangle.java`](./Laboratory%20Activity%204%20-%2027-11-2024/Shapes/Triangle.java)  
-  - [ ] [`ShapeCollection.java`](./Laboratory%20Activity%204%20-%2027-11-2024/Shapes/ShapeCollection.java)  
-- ![Lab4 Output Screenshot](./Laboratory%20Activity%204%20-%2027-11-2024/Lab4-output.png)
+## 📝 **Laboratory Activity 2 – 30-09-2024**:
+- [ ] **[`GetArrayMean.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%202%20%E2%80%93%2030-09-2024/GetArrayMean.java)**  
+
+  🌟 *Output:*  
+  <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%202%20%E2%80%93%2030-09-2024/GetArrayMean_output.jpg" width="400">  
+- [ ] **[`MultiplicationTable.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%202%20%E2%80%93%2030-09-2024/MultiplicationTable.java)**  
+  
+  🌟 *Output:*  
+  <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%202%20%E2%80%93%2030-09-2024/MultiplicationTable_output.jpg" width="400">  
 
 ---
 
-### 🎉 Mission Accomplished! Keep up the great work!
+## 📝 **Laboratory Activity 3 – 18-11-2024**: 
+ - [ ] **[`ArtistDemo.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/ArtistDemo.java) (Driver Code)**
+ - [ ] **[`Artist.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/Artist.java)**
+  
+  🌟 *Output:*  
+   <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Artist_output.png" width="400">
+ - [ ] **[`Singer.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/Singer.java)**
+  
+  🌟 *Output:*  
+   <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Singer_output.png" width="400">    
+ - [ ] **[`Dancer.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/Dancer.java)**
+  
+  🌟 *Output :*  
+   <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Dancer_output.png" width="400">  
+ - [ ] **[`Painter.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/Painter.java)**  
+  
+  🌟 *Output:*  
+   <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Painter_output.png" width="400">  
+ - [ ] **[`Writer.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Artists/Writer.java)**  
+  
+  🌟 *Output:*  
+   <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%203%20-%2018-11-2024/Output%20Screenshots/Writer_output.png" width="400">  
+
+---
+
+## 📝 **Laboratory Activity 4 – 27-11-2024**:
+ - [ ] **[`Main.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/Main.java)**   
+ - [ ] **[`Shape.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/Shape.java)**  
+ - [ ] **[`Rectangle.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/Rectangle.java)**  
+ - [ ] **[`Square.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/Square.java)**  
+ - [ ] **[`Triangle.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/Triangle.java)**  
+ - [ ] **[`ShapeCollection.java`](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/ShapeCollection.java)**  
+  🌟 *Output:*  
+  <img src="https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%204%20%E2%80%93%2027-11-2024/Shapes/Lab4-output.png" width="400">
+
+---
+
+### 🎉 **Mission Accomplished!** Keep up the great work! 🌟
