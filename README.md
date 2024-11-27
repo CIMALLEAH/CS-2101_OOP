@@ -8,9 +8,9 @@ Welcome!! Below is a checklist of all the Lab Activities I've worked on througho
 
 ## 📝 **Laboratory Activity 1 – 02-09-2024**: *Input Handling & Conditionals*  
 - [ ] [`GettingInputs.java`](./Laboratory%20Activity%201%20-%2002-09-2024/GettingInputs.java)
-- ![Output Screenshot](./Laboratory%20Activity%201%20-%2002-09-2024/GettingInputs_output.png)  
+ ![Output Screenshot](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%201%20-%2002-09-2024/GettingGreater_output.jpg)  
 - [ ] [`GettingGreater.java`](./Laboratory%20Activity%201%20-%2002-09-2024/GettingGreater.java) 
-- ![Output Screenshot](./Laboratory%20Activity%201%20-%2002-09-2024/GettingGreater_output.png)  
+ ![Output Screenshot](https://github.com/CIMALLEAH/CS-2101_OOP/blob/main/BalagtasMichaellaCS2101_OOPactivities/Laboratory%20Activity%201%20-%2002-09-2024/GettingInputs_output.jpg)
 
 ---
 
